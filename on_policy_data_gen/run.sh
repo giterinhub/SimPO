@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python decode_together_ai.py --data_dir argilla/ultrafeedback-binarized-preferences-cleaned 

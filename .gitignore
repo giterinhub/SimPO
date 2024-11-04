@@ -162,3 +162,5 @@ cython_debug/
 # Temp folders
 data/
 wandb/
+datasets/
+data/
